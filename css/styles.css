@@ -71,7 +71,7 @@ body.dark {
 }
 
 .flags{
-    width: 75px;
+    width: 45px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -382,6 +382,14 @@ body.dark {
 .icon__phone{
     width: 25px;
     float: left;
+}
+
+.skills__start-level{
+    font-size: 0.8rem;
+}
+
+.skills__max-level{
+    font-size: 0.8rem;
 }
 
 .text__gmail{

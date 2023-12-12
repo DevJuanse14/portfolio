@@ -1,0 +1,37 @@
+{
+    "profile":{
+        "rol": "Unity Developer",
+        "description": "Myself description"
+    },
+    "experience": {
+        "experience-title": "Experience",
+        "first-job-title": "Videogame Tester",
+        "first-job-dates": "Job Dates",
+        "first-job-description": "Description of the functions I performed in this job",
+        "second-job-title": "Unity Developer",
+        "second-job-dates": "Job Dates",
+        "second-job-description": "Description of the functions I performed in this job",
+        "third-job-title": "Freelance Unity Developer",
+        "third-job-dates": "Job Dates",
+        "third-job-description": "Description of the functions I performed in this job"
+    },
+    "projects": {
+        "first-project-title": "Project title1",
+        "first-project-description": "Project description",
+        "first-project-first-tag": "Tag1",
+        "first-project-second-tag": "Tag2",
+        "second-project-title": "Project title2",
+        "second-project-description": "Project description",
+        "second-project-first-tag": "Tag1",
+        "second-project-second-tag": "Tag2",
+        "third-project-title": "Project title3",
+        "third-project-description": "Project description",
+        "third-project-first-tag": "Tag1",
+        "third-project-second-tag": "Tag2",
+        "fourth-project-title": "Project title4",
+        "fourth-project-description": "Project description",
+        "fourth-project-first-tag": "Tag1",
+        "fourth-project-second-tag": "Tag2",
+        "projects-button-code": "Code"
+    }
+}

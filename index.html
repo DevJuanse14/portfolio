@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+    rel="stylesheet"
+    href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Portfolio</title>
+  </head>
+  <body class="dark">
+      <header class="header">
+        <div class="switches">
+          <div id="toggle-theme" class="toggle-theme">
+            <img id="toggle-icon"
+             src="assets/icons/moon.svg"
+             alt="icon theme"
+             class="toggle-theme__icon"
+            />
+            <p id="toggle-text" class="toggle--theme__text">Dark Mode</p>
+          </div>
+        </div>
+        <div id="flags" class="flags">
+          <div class="flags__item flags__img" data-language="es">
+            <img src="assets/icons/bandera_espanya.svg" alt="band_espanya">
+          </div> 
+          <div class="flags__item flags__img" data-language="en">
+            <img src="assets/icons/bandera_inglaterra.svg" alt="band_inglaterra">
+          </div>         
+        </div>
+        <div id="toggle-colors" class="colors">
+          <div data-color="hsl(214, 84%, 56%)" class="colors__item colors__item--blue"></div>
+
+          <div data-color="hsl(150, 84%, 56%)" class="colors__item colors__item--green"></div> 
+
+          <div data-color="hsl(276, 84%, 56%)" class="colors__item colors__item--purple"></div> 
+
+          <div data-color="hsl(46, 84%, 56%)" class="colors__item colors__item--orange"></div> 
+        </div>        
+      </header>
+      <main class="main">
+        <section class="column column--left">
+          <!-- PROFILE CARD-->
+          <article class="card card--profile">
+            <div class="card__image-container">
+              <img src="assets/images/perfiljuanse.jpeg" alt="">
+            </div>
+            <div class="card__header">
+              <h2 class="card__title no-margin">Juanse Muñoz</h2>
+              <p class="card__subtitle no-margin" data-section="profile" data-value="rol">Unity Developer</p>
+            </div>
+            <div class="card__body">
+              <div class="card__link">
+                <i class="fas fa-envelope icon"></i>
+                <a href="mailto:14jsma@gmail.com">14jsma@gmail.com</a>
+              </div>
+              <div class="card__link">
+                <i class="fas fa-phone-alt icon"></i>
+                <a href="tel:+34-647457907">+34-647457907</a>
+              </div> 
+               <p class="card__text" data-section="profile" data-value="description">Descripción de mi persona</p>  
+            </div>
+          </article>
+          <article class="card card--experience">
+            <h2 class="card__title" data-section="experience" data-value="experience-title">Experiencias</h2>
+            <div class="experience">
+              <img src="assets/images/logoPERSONAL.jpeg" alt="logo" class="experience__image">
+              <div class="experience__info">
+                <p class="experience__time" data-section="experience" data-value="first-job-dates">
+                  Fecha de inicio hasta Fecha Finalización
+                </p>
+                <h3 class="experience__job" data-section="experience" data-value="first-job-title">BETA TESTER</h3>
+                <p class="experience__description" data-section="experience" data-value="first-job-description">descripción del trabajo que desempeñaba</p>
+              </div>
+            </div>
+            <div class="experience">
+              <img src="assets/images/logoPERSONAL.jpeg" alt="logo" class="experience__image">
+              <div class="experience__info">
+                <p class="experience__time" data-section="experience" data-value="second-job-dates">
+                  Fecha de inicio hasta Fecha Finalización
+                </p>
+                <h3 class="experience__job" data-section="experience" data-value="second-job-title">UNITY DEVELOPER</h3>
+                <p class="experience__description"  data-section="experience" data-value="second-job-description">descripción del trabajo2 que desempeñaba</p>
+              </div>
+            </div>
+            <div class="experience">
+              <img src="assets/images/logoPERSONAL.jpeg" alt="logo" class="experience__image">
+              <div class="experience__info">
+                <p class="experience__time" data-section="experience" data-value="third-job-dates">
+                  Fecha de inicio hasta Fecha Finalización
+                </p>
+                <h3 class="experience__job" data-section="experience" data-value="third-job-title">UNITY DEVELOPER</h3>
+                <p class="experience__description" data-section="experience" data-value="third-job-description">descripción del trabajo que desempeñaba</p>
+              </div>
+            </div>
+          </article>
+          <article class="card card--hobbies">
+            <h2 class="card__tittle">Hobbies</h2>
+            <div class="card__image-container">
+              <img src="assets/images/hobbie.jpg" alt="Man on a bike">
+            </div>
+            <h3 class="hobbie_tittle">Titulo del hobbie 1</h3>
+            <p class="card__text">Descripción de lo que queremos poner sobre nuestro hobbie</p>
+            <h3 class="hobbie_tittle">Titulo del hobbie 2</h3>
+            <p class="card__text">Descripción de lo que queremos poner sobre nuestro hobbie</p>
+          </article>
+        </section>
+        <section class="column column--right">
+          <article class="card">
+            <h2 class="card__title no-margin">Unity</h2>
+            <small>Años de experiencia</small>
+            <div class="skills"></div>
+            <div class="skills__header">
+              <span class="skills__start-level">0</span>
+              <span class="skills__max-level">3</span>
+            </div>      
+              <div class="skills__item">
+                <p class="skills__tech">Conocimiento de Unity</p>
+                <div class="skills__bar skills__bar--100"></div>                
+              </div>
+              <div class="skills__item">                
+                <p class="skills__tech">Conocimiento C#</p>
+                <div class="skills__bar skills__bar--100"></div>                
+              </div>
+              <div class="skills__item">
+                <p class="skills__tech">Programación orientada a objetos</p>
+                <div class="skills__bar skills__bar--90"></div>                
+              </div>
+              <div class="skills__item">
+                <p class="skills__tech">Diseño y planificación de niveles</p>
+                <div class="skills__bar skills__bar--90"></div>
+              </div> 
+          </article>
+          <article class="card">
+            <h2 class="card__title no-margin">Front End</h2>
+            <small>Años de experiencia</small>
+            <div class="skills"></div>
+            <div class="skills__header">
+              <span class="skills__start-level">0</span>
+              <span class="skills__max-level">1</span>
+            </div>      
+              <div class="skills__item">
+                <p class="skills__tech">HTML</p>
+                <div class="skills__bar skills__bar--80"></div>                
+              </div>
+              <div class="skills__item">                
+                <p class="skills__tech">CSS</p>
+                <div class="skills__bar skills__bar--80"></div>                
+              </div>
+              <div class="skills__item">
+                <p class="skills__tech">JavaScript</p>
+                <div class="skills__bar skills__bar--90"></div>                
+              </div>              
+          </article>
+          <article class="card">
+            <h2 class="card__title no-margin">Otras experiencias</h2>
+            <small>Años de experiencia</small>
+            <div class="skills"></div>
+            <div class="skills__header">
+              <span class="skills__start-level">0</span>
+              <span class="skills__max-level">8</span>
+            </div>      
+              <div class="skills__item">
+                <p class="skills__tech">GitHub</p>
+                <div class="skills__bar skills__bar--30"></div>                
+              </div>
+              <div class="skills__item">                
+                <p class="skills__tech">Edición de Vídeo</p>
+                <div class="skills__bar skills__bar--100"></div>                
+              </div>                           
+          </article>
+          <article class="card card--project">
+            <div class="card__image-container">
+              <img src="assets/images/Miniatura_proyecto_plataforma2D.webp" alt="Landing page" class="card__image">
+            </div>
+            <div class="project">
+              <div class="project__tags">
+                <span class="project__tag" data-section="projects" data-value="first-project-first-tag">Unity</span>
+                <span class="project__tag" data-section="projects" data-value="first-project-second-tag">C#</span>
+              </div>
+              <h2 class="card__title" data-section="projects" data-value="first-project-title">JUEGO PLATAFORMA 2D</h2>
+              <p class="card__text" data-section="projects" data-value="first-project-description">Descripción del proyecto</p>
+              <div class="buttons">
+                <a href="https://youtu.be/0uqVExd8CH0" class="button button--primary">Demo</a>
+                <a href="#" class="button button--ghost" data-section="projects" data-value="projects-button-code">Código</a>
+              </div>
+            </div>
+          </article>
+          <article class="card card--project">
+            <div class="card__image-container">
+              <img src="assets/images/Miniatura_proyecto_resistAsUCan.webp" alt="Landing page" class="card__image">
+            </div>
+            <div class="project">
+              <div class="project__tags">
+                <span class="project__tag" data-section="projects" data-value="second-project-first-tag">Unity</span>
+                <span class="project__tag" data-section="projects" data-value="second-project-second-tag">C#</span>
+              </div>
+              <h2 class="card__title" data-section="projects" data-value="second-project-title">RESIST AS U CAN</h2>
+              <p class="card__text" data-section="projects" data-value="second-project-description">Descripción del proyecto</p>
+              <div class="buttons">
+                <a href="https://youtu.be/dprGLb6kpcQ" class="button button--primary">Demo</a>
+                <a href="#" class="button button--ghost" data-section="projects" data-value="projects-button-code">Código</a>
+              </div>
+            </div>
+          </article>
+          <article class="card card--project">
+            <div class="card__image-container">
+              <img src="assets/images/Miniatura_proyecto_rebounds2D.webp" alt="Landing page" class="card__image">
+            </div>
+            <div class="project">
+              <div class="project__tags">
+                <span class="project__tag" data-section="projects" data-value="third-project-first-tag">Unity</span>
+                <span class="project__tag" data-section="projects" data-value="third-project-second-tag">C#</span>
+              </div>
+              <h2 class="card__title" data-section="projects" data-value="third-project-title">REBOUNDS 2D</h2>
+              <p class="card__text" data-section="projects" data-value="third-project-description">Descripción del proyecto</p>
+              <div class="buttons">
+                <a href="https://youtu.be/pbbKaTAglc8" class="button button--primary">Demo</a>
+                <a href="#" class="button button--ghost" data-section="projects" data-value="projects-button-code">Código</a>
+              </div>
+            </div>
+          </article>
+          <article class="card card--project">
+            <div class="card__image-container">
+              <img src="assets/images/Miniatura_proyecto_runAsUCan.webp" alt="Landing page" class="card__image">
+            </div>
+            <div class="project">
+              <div class="project__tags">
+                <span class="project__tag" data-section="projects" data-value="fourth-project-first-tag">Unity</span>
+                <span class="project__tag" data-section="projects" data-value="fourth-project-second-tag">C#</span>
+              </div>
+              <h2 class="card__title" data-section="projects" data-value="fourth-project-title">RUN AS U CAN</h2>
+              <p class="card__text" data-section="projects" data-value="fourth-project-description">Descripción del proyecto</p>
+              <div class="buttons">
+                <a href="https://youtu.be/ByH19RvUtXs" class="button button--primary">Demo</a>
+                <a href="#" class="button button--ghost" data-section="projects" data-value="projects-button-code">Código</a>
+              </div>
+            </div>
+          </article>
+        </section>
+      </div>
+    </main>  
+    <script src="js/scripts.js"></script>
+  </body>
+</html>

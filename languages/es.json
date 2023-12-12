@@ -1,0 +1,37 @@
+{
+    "profile": {
+        "rol": "Desarrolador Unity",
+        "description": "Descripción de mi persona"
+    },
+    "experience": {
+        "experience-title": "Experiencia",
+        "first-job-title": "Testeador de Videojuego",
+        "first-job-dates": "Fecha de la duración del trabajo",
+        "first-job-description": "Descripción de las funciones que realicé en este trabajo",
+        "second-job-title": "Desarrolador Unity",
+        "second-job-dates": "Fecha de la duración del trabajo",
+        "second-job-description": "Descripción de las funciones que realicé en este trabajo",
+        "third-job-title": "Desarrolador Unity",
+        "third-job-dates": "Fecha de la duración del trabajo",
+        "third-job-description": "Descripción de las funciones que realicé en este trabajo"
+    },
+    "projects": {
+        "first-project-title": "Titulo del projecto1",
+        "first-project-description": "Descripción del proyecto",
+        "first-project-first-tag": "Etiqueta1",
+        "first-project-second-tag": "Etiqueta2",        
+        "second-project-title": "Titulo del projecto2",
+        "second-project-description": "Descripción del proyecto",
+        "second-project-first-tag": "Etiqueta1",
+        "second-project-second-tag": "Etiqueta2",
+        "third-project-title": "Titulo del projecto3",
+        "third-project-description": "Descripción del proyecto",
+        "third-project-first-tag": "Etiqueta1",
+        "third-project-second-tag": "Etiqueta2",
+        "fourth-project-title": "Titulo del projecto4",
+        "fourth-project-description": "Descripción del proyecto",
+        "fourth-project-first-tag": "Etiqueta1",
+        "fourth-project-second-tag": "Etiqueta2",
+        "projects-button-code": "Código"
+    }
+}

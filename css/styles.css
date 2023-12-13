@@ -184,9 +184,27 @@ body.dark {
 
 .card__link{
     margin-bottom: .5em;
-    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+    display:flex;    
     align-items: center;
-    justify-content: left;
+    justify-content: space-between;
+}
+
+.icon__gmail{
+    width: 25px;
+}
+
+.icon__linkedin{
+    width: 30px;
+}
+
+.icon__youtube{
+    width: 30px;
+}
+
+.icon__twitter{
+    width: 30px;
 }
 
 .card__text{
@@ -388,17 +406,6 @@ body.dark {
     color: var(--primary-color); 
 }
 
-.icon__gmail{
-    width: 20px;
-    float: left;
-    margin-left: 0.2em;
-}
-
-.icon__phone{
-    width: 25px;
-    float: left;
-}
-
 .skills__start-level{
     font-size: 0.8rem;
     margin-top: -20px;
@@ -407,14 +414,6 @@ body.dark {
 .skills__max-level{
     font-size: 0.8rem;
     margin-top: -20px;
-}
-
-.text__gmail{
-    margin-left: 0.5em;
-}
-
-.text__phone{
-    margin-left: 0.5em;
 }
 
 .icon{

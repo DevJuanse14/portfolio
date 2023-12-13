@@ -317,7 +317,8 @@ body.dark {
 
 .experience__description{
     font-size: .8rem;
-    margin-bottom: 1.5em;
+    margin-bottom: 0.5em;
+    margin-left: -60px;
 }
 
 .project{

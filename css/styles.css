@@ -221,6 +221,12 @@ body.dark {
     line-height: 1.5;
 }
 
+.card__textprofile{
+    text-indent: 2em;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
 @media screen and (min-width: 760px) {
     .card--project{
         display: grid;

@@ -336,6 +336,7 @@ body.dark {
     margin: 0.5em 0;
     font-size: 0.6rem;
     width: 100px;
+    margin-bottom: 10px;
 }
 
 @media screen and (min-width: 760px) {
@@ -398,10 +399,12 @@ body.dark {
 
 .skills__start-level{
     font-size: 0.8rem;
+    margin-top: -20px;
 }
 
 .skills__max-level{
     font-size: 0.8rem;
+    margin-top: -20px;
 }
 
 .text__gmail{

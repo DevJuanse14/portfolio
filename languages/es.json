@@ -28,7 +28,12 @@
         "third-job-description": "Desarrollo, programación y diseño de videojuegos en Unity3D y Unity2D"
     },
     "skills": {
-        "years-experience":"Años de experiencia"
+        "years-experience":"Años de experiencia",
+        "third-skills-title": "Otras habilidades",
+        "first-skills-first-skill": "Conocimiento de Unity",
+        "second-skills-first-skill": "Conocimiento de C#",
+        "third-skills-first-skill": "Programación orientada a objetos",
+        "fourth-skills-first-skill": "Diseño y planificación de niveles"
     },
     "projects": {
         "first-project-title": "JUEGO PLATAFORMA 2D",
@@ -40,14 +45,19 @@
         "second-project-description": "Esto es solo un Prototipo del juego. En este video se pueden observar las mecánicas y funciones programadas.",
         "second-project-first-tag": "Unity",
         "second-project-second-tag": "C#",
-        "third-project-title": "REBOUNDS 2D",
-        "third-project-description": "Esto es solo un Prototipo del juego. En este video se pueden observar las mecánicas y funciones programadas.",
-        "third-project-first-tag": "Unity",
-        "third-project-second-tag": "C#",
-        "fourth-project-title": "RUN AS U CAN",
+        "third-project-title": "PÁGINA WEB PORTFOLIO",
+        "third-project-description": "Página Web de Portfolio personal.",
+        "third-project-first-tag": "HTML",
+        "third-project-second-tag": "CSS",
+        "third-project-third-tag": "JavaScript",
+        "fourth-project-title": "REBOUNDS 2D",
         "fourth-project-description": "Esto es solo un Prototipo del juego. En este video se pueden observar las mecánicas y funciones programadas.",
         "fourth-project-first-tag": "Unity",
         "fourth-project-second-tag": "C#",
+        "fifth-project-title": "RUN AS U CAN",
+        "fifth-project-description": "Esto es solo un Prototipo del juego. En este video se pueden observar las mecánicas y funciones programadas.",
+        "fifth-project-first-tag": "Unity",
+        "fifth-project-second-tag": "C#",
         "projects-button-code": "Código"
     }
 }

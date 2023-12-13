@@ -28,7 +28,12 @@
         "third-job-description": "Unity3D and Unity2D video game development, programming and design"
     },
     "skills": {
-        "years-experience":"Experience gained"
+        "years-experience":"Experience gained",
+        "third-skills-title": "Otras skills",
+        "first-skills-first-skill": "UNITY knowledge",
+        "second-skills-first-skill": "C# knowledge",
+        "third-skills-first-skill": "Object oriented programming",
+        "fourth-skills-first-skill": "Level design and planning"
     },
     "projects": {
         "first-project-title": "2D PLATAFORM GAME",
@@ -40,14 +45,19 @@
         "second-project-description": "This is just a prototype of the game. In this video you can see the programmed mechanics and functions.",
         "second-project-first-tag": "Unity",
         "second-project-second-tag": "C#",
-        "third-project-title": "REBOUNDS 2D",
-        "third-project-description": "This is just a prototype of the game. In this video you can see the programmed mechanics and functions.",
+        "third-project-title": "PORTFOLIO WEBSITE",
+        "third-project-description": "Personal Portfolio Website.",
         "third-project-first-tag": "Unity",
         "third-project-second-tag": "C#",
-        "fourth-project-title": "RUN AS U CAN",
+        "third-project-third-tag": "JavaScript",
+        "fourth-project-title": "REBOUNDS 2D",
         "fourth-project-description": "This is just a prototype of the game. In this video you can see the programmed mechanics and functions.",
         "fourth-project-first-tag": "Unity",
         "fourth-project-second-tag": "C#",
+        "fifth-project-title": "RUN AS U CAN",
+        "fifth-project-description": "This is just a prototype of the game. In this video you can see the programmed mechanics and functions.",
+        "fifth-project-first-tag": "Unity",
+        "fifth-project-second-tag": "C#",
         "projects-button-code": "Code"
     }
 }

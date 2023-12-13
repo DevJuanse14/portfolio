@@ -1,7 +1,9 @@
 {
     "profile":{
         "rol": "Unity Developer",
-        "description": "Myself description"
+        "first-description": "Hi, I'm Juanse Muñoz. 11 years ago, my professional life was focused on sports, especially soccer. But two years ago, I decided to switch to my other passion, computer science, in particular, programming, and more precisely, the programming and design of video games.",
+        "second-description": "I am currently on the job market for a programming position (ready to learn any computer language) or videogames design/programming. In spite of the fact that my professional experience in the sector is limited, I have the motivation and enthusiasm that is necessary to fill and excel in any of the areas listed above.",
+        "third-description": "I am in a constant state of development, both on a professional and personal level. I've never been afraid of hard work."
     },
     "experience": {
         "experience-title": "Experience",
@@ -16,22 +18,23 @@
         "third-job-description": "Description of the functions I performed in this job"
     },
     "projects": {
-        "first-project-title": "Project title1",
+        "first-project-title": "2D PLATAFORM GAME",
         "first-project-description": "Project description",
-        "first-project-first-tag": "Tag1",
-        "first-project-second-tag": "Tag2",
-        "second-project-title": "Project title2",
+        "first-project-first-tag": "Unity",
+        "first-project-second-tag": "C#",
+        "first-project-third-tag": "JSON",
+        "second-project-title": "RESIST AS U CAN",
         "second-project-description": "Project description",
-        "second-project-first-tag": "Tag1",
-        "second-project-second-tag": "Tag2",
-        "third-project-title": "Project title3",
+        "second-project-first-tag": "Unity",
+        "second-project-second-tag": "C#",
+        "third-project-title": "REBOUNDS 2D",
         "third-project-description": "Project description",
-        "third-project-first-tag": "Tag1",
-        "third-project-second-tag": "Tag2",
-        "fourth-project-title": "Project title4",
+        "third-project-first-tag": "Unity",
+        "third-project-second-tag": "C#",
+        "fourth-project-title": "RUN AS U CAN",
         "fourth-project-description": "Project description",
-        "fourth-project-first-tag": "Tag1",
-        "fourth-project-second-tag": "Tag2",
+        "fourth-project-first-tag": "Unity",
+        "fourth-project-second-tag": "C#",
         "projects-button-code": "Code"
     }
 }

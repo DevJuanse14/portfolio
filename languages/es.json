@@ -1,7 +1,9 @@
 {
     "profile": {
         "rol": "Desarrolador Unity",
-        "description": "Descripción de mi persona"
+        "first-description": "Hola, me presento, soy Juanse Muñoz. Orienté hace 11 años mi vida laboral hacia el Deporte y en concreto al fútbol. Pero hace dos años, decidí hacer un cambio a mi otra pasión, la informática, en concreto, la programación y más en específico, la programación y diseño de Videojuegos.",
+        "second-description": "Ahora mismo estoy en busca de un puesto relacionado con la programación (dispuesto a aprender cualquier lenguaje informático) o con el diseño y programación de videojuegos. A pesar de mi escasa experiencia profesional en el sector, tengo la motivación y el entusiasmo necesario para ocupar y cumplir con creces en cualquier puesto de las áreas mencionadas con anterioridad.",
+        "third-description": "Siempre sigo en continuo desarrollo, tanto profesional como personal. Y nunca me ha asustado el trabajo duro."
     },
     "experience": {
         "experience-title": "Experiencia",
@@ -16,22 +18,23 @@
         "third-job-description": "Descripción de las funciones que realicé en este trabajo"
     },
     "projects": {
-        "first-project-title": "Titulo del projecto1",
+        "first-project-title": "JUEGO PLATAFORMA 2D",
         "first-project-description": "Descripción del proyecto",
-        "first-project-first-tag": "Etiqueta1",
-        "first-project-second-tag": "Etiqueta2",        
-        "second-project-title": "Titulo del projecto2",
+        "first-project-first-tag": "Unity",
+        "first-project-second-tag": "C#",
+        "first-project-third-tag": "JSON",         
+        "second-project-title": "RESIST AS U CAN",
         "second-project-description": "Descripción del proyecto",
-        "second-project-first-tag": "Etiqueta1",
-        "second-project-second-tag": "Etiqueta2",
-        "third-project-title": "Titulo del projecto3",
+        "second-project-first-tag": "Unity",
+        "second-project-second-tag": "C#",
+        "third-project-title": "REBOUNDS 2D",
         "third-project-description": "Descripción del proyecto",
-        "third-project-first-tag": "Etiqueta1",
-        "third-project-second-tag": "Etiqueta2",
-        "fourth-project-title": "Titulo del projecto4",
+        "third-project-first-tag": "Unity",
+        "third-project-second-tag": "C#",
+        "fourth-project-title": "RUN AS U CAN",
         "fourth-project-description": "Descripción del proyecto",
-        "fourth-project-first-tag": "Etiqueta1",
-        "fourth-project-second-tag": "Etiqueta2",
+        "fourth-project-first-tag": "Unity",
+        "fourth-project-second-tag": "C#",
         "projects-button-code": "Código"
     }
 }

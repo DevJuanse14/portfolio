@@ -128,6 +128,8 @@ body.dark {
     display: grid;
     padding: 2em;
     gap: 0.5em;
+    margin-left: -15px;
+    margin-top: -15px;
 }
 
 @media screen and (min-width:720px) {

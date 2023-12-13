@@ -8,12 +8,12 @@
     },
     "hobbies":{
         "hobbies-title": "Aficiones",
-        "first-hobbie-title": "Titulo Afición",
-        "first-hobbie-description": "Descripción Afición",
-        "second-hobbie-title": "Titulo Afición",
-        "second-hobbie-description": "Descripción Afición",
-        "third-hobbie-title": "Titulo Afición",
-        "third-hobbie-description": "Descripción Afición"
+        "first-hobbie-title": "Deportes",
+        "first-hobbie-description": "Me encanta tanto practicarlo como verlo. Desde niño siempre he practicado muchos deportes: fútbol, baloncesto, natación, voleybol, tenis... Soy un apasionado, y disfruto mucho practicándolo, sobre todo, los deportes de equipo.",
+        "second-hobbie-title": "Videojuegos",
+        "second-hobbie-description": "Es otra de mis pasiones. Disfruto mucho jugandolos, sobre todo los juegos de supervivencia, RPG y de tiros",
+        "third-hobbie-title": "Lectura",
+        "third-hobbie-description": "La lectura es una afición que me permite relajarme y aprender al mismo tiempo. Los géneros que más me gustan son los de aventura, aprendizaje y comics de humor."
     },
     "experience": {
         "experience-title": "Experiencia",

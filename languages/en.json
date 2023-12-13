@@ -8,12 +8,12 @@
     },
     "hobbies":{
         "hobbies-title": "Hobbies",
-        "first-hobbie-title": "Hobbie Title",
-        "first-hobbie-description": "Hobbie description",
-        "second-hobbie-title": "Hobbie Title",
-        "second-hobbie-description": "Hobbie description",
-        "third-hobbie-title": "Hobbie Title",
-        "third-hobbie-description": "Hobbie description"
+        "first-hobbie-title": "Sports",
+        "first-hobbie-description": "I love to practice it as well as watch it. Since childhood I played many sports: soccer, basketball, swimming, volleyball, tennis.... I'm passionate about it, and I really enjoy practicing it, especially team sports",
+        "second-hobbie-title": "Video Games",
+        "second-hobbie-description": "This is another of my passions. I have a lot of fun with them, especially the survival games, RPG and shooters.",
+        "third-hobbie-title": "Reading",
+        "third-hobbie-description": "Reading is a hobby that allows me to relax and learn at the same time. Adventure, learning, and humor comics are the genres I enjoy the most."
     },
     "experience": {
         "experience-title": "Experience",

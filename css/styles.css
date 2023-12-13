@@ -207,6 +207,15 @@ body.dark {
     width: 30px;
 }
 
+.container__cv{
+    display: flex; 
+    margin-left: 120px;  
+}
+
+.cv__img{
+    width: 30%;
+}
+
 .card__text{
     font-size: 0.9rem;
     line-height: 1.5;

@@ -290,7 +290,7 @@ body.dark {
     padding: 1em;
     border: 2px solid var(--primary-color);
     border-radius: var(--border-radius);
-    transition: var(--transition);
+    transition: var(--transition);    
 }
 
 .experience__image{
@@ -357,19 +357,20 @@ body.dark {
 .buttons{
     display: flex;
     justify-content: space-between;
-    width: 225px;
+    width: 180px;
+    height: 30px;
 }
 
 @media screen and (min-width: 760px){
     .buttons{
         position: absolute;
-        bottom: 1em;
+        bottom: 0.5em;
     }
 }
 
 .button{
-    width: 100px;
-    line-height: 2.5;
+    width: 80px;
+    line-height: 2;
     text-align: center;
     border-radius: var(--border-radius);
     transition: var(--transition);    

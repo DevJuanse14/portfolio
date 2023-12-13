@@ -169,6 +169,7 @@ body.dark {
 
 .card__title{
     margin-bottom: 1em;
+    margin-top: 0em;
     font-size: 1.2rem;
 }
 
@@ -296,13 +297,18 @@ body.dark {
 .experience__time{
     font-size: .8rem;
     margin-bottom: 0.5em;
+    margin-top: 0;
 }
 
 .experience__job{
     margin: 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.1em;
     color: var(--primary-color);
     transition: var(--transition);
+}
+
+.experience__company{
+    margin: 0;
 }
 
 .experience__description{

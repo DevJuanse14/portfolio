@@ -177,6 +177,17 @@ body.dark {
     margin-top: 0em;
 }
 
+.hobbie__tittle{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.hobbie__text{
+    text-indent: 2em;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
 .card__subtitle{
     font-size: .9rem;
     opacity: .8;
@@ -321,7 +332,7 @@ body.dark {
     align-items: start;
     margin-bottom: 1em;
     padding: 1em;
-    border: 2px solid var(--primary-color);
+    border: 2px solid var(--text-color);
     border-radius: var(--border-radius);
     transition: var(--transition);    
 }
@@ -340,7 +351,6 @@ body.dark {
 .experience__job{
     margin: 0;
     margin-bottom: 0.1em;
-    color: var(--primary-color);
     transition: var(--transition);
 }
 
